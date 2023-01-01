@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+
+<hnm_head tag="PF"/>	
+</hamnosys_nonmanual>
+
+<hamnosys_manual>
+
+<hamceeall/>
+<hamfingerstraightmod/>
+<hamextfingerl/>
+<hampalml/>
+<hamneck/>
+<hamtouch/>
+<hamnomotion/>
+<hamparbegin/>
+<hammoveo/>
+<hamsmallmod/>
+<hamarcu/>
+<hamreplace/>
+<hamceeall/>
+<hamfingerstraightmod/>
+<hamextfingero/>
+<hampalmu/>
+<hamneck/>
+<hamclose/>
+<hamparend/>
+</hamnosys_manual>
+
+</hns_sign>
+
+</sigml>
