@@ -1,1 +1,4 @@
+Anirban Das Gupto
 
+About: This folder is made to contain data for the thesis of Prato Dewan and Asibul Islam Abir, CSE-17. The folder contains the Hamnosys symbols and SIGML for 500 words. The words were in Bangla, found in the app called ইশারা ভাষা-৫, which can be found in the playstore by name.
+This work is to help the deaf and mute.
