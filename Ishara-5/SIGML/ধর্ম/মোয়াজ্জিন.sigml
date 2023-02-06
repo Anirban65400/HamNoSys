@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+<hnm_mouthpicture picture=" moya"/>
+</hamnosys_nonmanual>
+<hamnosys_manual>
+<hamsymmlr/>
+<hamfinger2/>
+<hamfingerstraightmod/>
+<hamextfingeru/>
+<hampalml/>
+<hamear/>
+<hamtouch/>
+<hamnomotion/>
+<hamnomotion/>
+</hamnosys_manual>
+</hns_sign>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+<hnm_mouthpicture picture="jjin"/>
+</hamnosys_nonmanual>
+<hamnosys_manual>
+<hamfinger2/>
+<hambetween/>
+<hamfinger2/>
+<hamfingerbendmod/>
+<hamextfingeru/>
+<hampalmu/>
+<hamforehead/>
+<hamcircleo/>
+<hamclockl/>
+</hamnosys_manual>
+</hns_sign>
+</sigml>
