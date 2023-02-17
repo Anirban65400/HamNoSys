@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sigml>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+<hnm_mouthpicture picture="e"/>
+</hamnosys_nonmanual>
+<hamnosys_manual>
+<hampinch12/>
+<hamextfingeru/>
+<hampalmu/>
+<hamlrbeside/>
+<hamshoulders/>
+<hambetween/>
+<hamshoulders/>
+<hamtouch/>
+<hammovedl/>
+<hamlrat/>
+<hamshoulders/>
+<hambetween/>
+<hamchest/>
+<hamtouch/>
+<hammovedl/>
+<hamchest/>
+<hamtouch/>
+<hamnomotion/>
+</hamnosys_manual>
+</hns_sign>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+<hnm_mouthpicture picture="e"/>
+</hamnosys_nonmanual>
+<hamnosys_manual>
+<hampinch12/>
+<hamextfingeru/>
+<hampalmd/>
+<hamshouldertop/>
+<hamclose/>
+<hamnomotion/>
+<hamnomotion/>
+</hamnosys_manual>
+</hns_sign>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+<hnm_mouthpicture picture="aie"/>
+</hamnosys_nonmanual>
+<hamnosys_manual>
+<hamfinger2345/>
+<hamthumboutmod/>
+<hamextfingerul/>
+<hampalml/>
+<hamlrbeside/>
+<hamshouldertop/>
+<hamclose/>
+<hamparbegin/>
+<hammovedr/>
+<hamlargemod/>
+<hamzigzag/>
+<hamchest/>
+<hamlrat/>
+<hamclose/>
+<hamparend/>
+</hamnosys_manual>
+</hns_sign>
+</sigml>
