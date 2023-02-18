@@ -9,16 +9,15 @@
 
 <hamnosys_manual>
 
-<hamfinger2/>
-<hamthumbacrossmod/>
-<hamextfingerd/>
+<hamflathand/>
+<hamextfingerl/>
 <hampalmd/>
 <hamheadtop/>
 <hamseqbegin/>
 <hamtouch/>
-<hamfingertip/>
-<hamindexfinger/>
+<hampalm/>
 <hamseqend/>
+<hamnomotion/>
 <hamnomotion/>
 <hamreplace/>
 <hamceeall/>
@@ -30,6 +29,7 @@
 <hamfingertip/>
 <hamindexfinger/>
 <hamseqend/>
+<hamnomotion/>
 <hamreplace/>
 <hamceeall/>
 <hamextfingeru/>

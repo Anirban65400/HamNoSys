@@ -7,10 +7,15 @@
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamfinger2/>
+<hamthumbacrossmod/>
+<hambetween/>
+<hamfinger2/>
+<hamthumbacrossmod/>
+<hamfingerbendmod/>
 <hamextfingeru/>
 <hampalml/>
 <hamforehead/>
-<hamlrat/>
+<hamlrbeside/>
 <hamseqbegin/>
 <hamtouch/>
 <hamfingertip/>
@@ -18,6 +23,7 @@
 <hamseqend/>
 <hamnomotion/>
 <hammoved/>
+<hamsmallmod/>
 <hamnomotion/>
 </hamnosys_manual>
 </hns_sign>
