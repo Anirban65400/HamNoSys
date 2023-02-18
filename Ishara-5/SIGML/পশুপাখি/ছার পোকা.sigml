@@ -4,6 +4,7 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
+<hnm_mouthpicture picture="ch"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamnondominant/>
@@ -22,7 +23,7 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-<hnm_mouthpicture picture="aaaaauuuu"/>
+<hnm_mouthpicture picture="char"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>
@@ -59,7 +60,7 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-<hnm_mouthpicture picture="aaaaaaa"/>
+<hnm_mouthpicture picture="poka"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>
@@ -106,33 +107,16 @@
 <hampinch12/>
 <hamfingerstraightmod/>
 <hamextfingeru/>
-<hampalmd/>
+<hampalml/>
 <hamshoulders/>
 <hamclose/>
-<hammoveo/>
-<hamsmallmod/>
-<hamfast/>
+<hamparbegin/>
+<hammoveor/>
+<hamlargemod/>
+<hamfingerplay/>
 <hamreplace/>
-<hamcee12/>
-<hamfingerstraightmod/>
-<hamextfingeru/>
 <hampalmd/>
-<hammoveo/>
-<hamsmallmod/>
-<hamfast/>
-<hamreplace/>
-<hampinch12/>
-<hamfingerstraightmod/>
-<hamextfingeru/>
-<hampalmd/>
-<hammoveo/>
-<hamsmallmod/>
-<hamfast/>
-<hamreplace/>
-<hamcee12/>
-<hamfingerstraightmod/>
-<hamextfingeru/>
-<hampalmd/>
+<hamparend/>
 </hamnosys_manual>
 </hns_sign>
 </sigml>

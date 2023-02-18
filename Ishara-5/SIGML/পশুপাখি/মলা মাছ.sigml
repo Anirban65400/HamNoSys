@@ -4,32 +4,53 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-
-<hnm_mouthpicture picture="molaaaa choto maach"/>	
 </hamnosys_nonmanual>
-
 <hamnosys_manual>
-
 <hamfinger2/>
 <hamextfingeru/>
 <hampalmd/>
 <hamshoulders/>
 <hamlrat/>
+<hamclose/>
 <hamswinging/>
 <hamnomotion/>
 <hamnomotion/>
-<hamreplace/>
+</hamnosys_manual>
+</hns_sign>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+</hamnosys_nonmanual>
+<hamnosys_manual>
 <hamfinger2/>
+<hambetween/>
+<hamfinger2/>
+<hamthumbacrossmod/>
 <hamextfingero/>
 <hampalml/>
+<hamshoulders/>
+<hamlrat/>
+<hamclose/>
 <hamnomotion/>
-<hamreplace/>
+</hamnosys_manual>
+</hns_sign>
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+</hamnosys_nonmanual>
+<hamnosys_manual>
 <hamflathand/>
 <hamextfingero/>
 <hampalml/>
+<hamshoulders/>
+<hamlrat/>
+<hamclose/>
+<hamparbegin/>
+<hammoveo/>
 <hamnodding/>
+<hamparend/>
 </hamnosys_manual>
-
 </hns_sign>
-
 </sigml>
