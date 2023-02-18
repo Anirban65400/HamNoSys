@@ -4,19 +4,29 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
+<hnm_mouthpicture picture="mar"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamfinger2/>
 <hamthumbacrossmod/>
-<hamextfingero/>
-<hambetween/>
-<hamextfingerur/>
-<hampalml/>
-<hamshoulders/>
-<hamnomotion/>
+<hamextfingeru/>
+<hampalmd/>
+<hamcheek/>
+<hamlrbeside/>
+<hamclose/>
+<hamparbegin/>
 <hammovedl/>
-<hamlrat/>
-<hamstomach/>
+<hamlargemod/>
+<hamarcr/>
+<hamfast/>
+<hammoveo/>
+<hamsmallmod/>
+<hamfast/>
+<hamreplace/>
+<hamextfingerol/>
+<hampalml/>
+<hamfast/>
+<hamparend/>
 <hamnomotion/>
 </hamnosys_manual>
 </hns_sign>
@@ -24,6 +34,7 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
+<hnm_mouthpicture picture="lathi"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>

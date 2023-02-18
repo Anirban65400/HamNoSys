@@ -4,7 +4,6 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-<hnm_mouthpicture picture="caataai"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>
@@ -62,35 +61,21 @@
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>
-<hamflathand/>
-<hamfingerbendmod/>
-<hamextfingero/>
-<hampalmd/>
-<hamchest/>
-<hamparbegin/>
-<hamreplace/>
 <hampinchall/>
 <hamextfingero/>
 <hampalmd/>
-<hamplus/>
-<hamreplace/>
-<hamflathand/>
-<hamfingerbendmod/>
-<hamextfingero/>
-<hampalmd/>
-<hamparend/>
+<hamshoulders/>
+<hamlrat/>
+<hamclose/>
 <hamparbegin/>
-<hamreplace/>
-<hamflathand/>
-<hamfingerbendmod/>
-<hamextfingero/>
-<hampalmd/>
-<hamplus/>
-<hamreplace/>
-<hampinchall/>
-<hamextfingero/>
-<hampalmd/>
+<hammoveo/>
+<hamfingerplay/>
 <hamparend/>
+<hamreplace/>
+<hamfinger2345/>
+<hamthumboutmod/>
+<hammovei/>
+<hamsmallmod/>
 </hamnosys_manual>
 </hns_sign>
 </sigml>

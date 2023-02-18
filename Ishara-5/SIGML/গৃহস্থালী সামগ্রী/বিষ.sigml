@@ -4,6 +4,8 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
+<hnm_head tag="NB"/>
+<hnm_mouthpicture picture="aaa"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hampinch12/>
