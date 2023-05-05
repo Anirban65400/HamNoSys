@@ -5,7 +5,6 @@
 
 <hamnosys_nonmanual>
 
-<hnm_head tag="NB"/>	
 </hamnosys_nonmanual>
 
 <hamnosys_manual>
@@ -13,8 +12,6 @@
 <hamfist/>
 <hamthumboutmod/>
 <hamextfingerl/>
-<hambetween/>
-<hamextfingerui/>
 <hampalmd/>
 <hamstomach/>
 <hamlrat/>
@@ -26,7 +23,9 @@
 <hamnomotion/>
 <hammoveu/>
 <hamslow/>
-<hamchest/>
+<hamshoulders/>
+<hambetween/>
+<hamshoulders/>
 <hamlrat/>
 <hamseqbegin/>
 <hamtouch/>
