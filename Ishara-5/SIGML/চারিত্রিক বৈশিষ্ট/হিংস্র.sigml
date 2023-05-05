@@ -4,14 +4,14 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-
 </hamnosys_nonmanual>
-
 <hamnosys_manual>
-
 <hamsymmlr/>
 <hamfinger2345/>
 <hamthumbopenmod/>
+<hamfingerhookmod/>
+<hambetween/>
+<hamfinger2345/>
 <hamfingerbendmod/>
 <hamextfingeru/>
 <hambetween/>
@@ -38,6 +38,9 @@
 <hamreplace/>
 <hamfinger2345/>
 <hamthumbopenmod/>
+<hamfingerhookmod/>
+<hambetween/>
+<hamfinger2345/>
 <hamfingerbendmod/>
 <hamplus/>
 <hamreplace/>
@@ -52,6 +55,9 @@
 <hamreplace/>
 <hamfinger2345/>
 <hamthumbopenmod/>
+<hamfingerhookmod/>
+<hambetween/>
+<hamfinger2345/>
 <hamfingerbendmod/>
 <hamextfingero/>
 <hampalmd/>
@@ -67,7 +73,5 @@
 <hamthumbacrossmod/>
 <hamparend/>
 </hamnosys_manual>
-
 </hns_sign>
-
 </sigml>
