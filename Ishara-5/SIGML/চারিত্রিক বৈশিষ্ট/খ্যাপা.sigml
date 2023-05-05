@@ -4,16 +4,12 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-<hnm_head tag="NF"/>
+<hnm_head tag="ND"/>
 <hnm_mouthpicture picture="pta"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
-<hamfinger2/>
-<hamthumbacrossmod/>
-<hambetween/>
-<hamfinger2/>
-<hamthumbacrossmod/>
-<hamfingerbendmod/>
+<hampinch12/>
+<hamfingerstraightmod/>
 <hamextfingeru/>
 <hampalml/>
 <hamforehead/>
@@ -43,7 +39,7 @@
 
 <hamnosys_nonmanual>
 <hnm_head tag="TR"/>
-<hnm_mouthpicture picture="ee"/>
+<hnm_mouthpicture picture="eeeeee"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>
