@@ -18,8 +18,13 @@
 <hamindexfinger/>
 <hamseqend/>
 <hamnomotion/>
+<hamparbegin/>
 <hammoveu/>
 <hamsmallmod/>
+<hamreplace/>
+<hamextfingerl/>
+<hampalmu/>
+<hamparend/>
 <hamnomotion/>
 </hamnosys_manual>
 </hns_sign>
@@ -63,6 +68,12 @@
 <hampalml/>
 <hamshoulders/>
 <hamclose/>
+<hamparbegin/>
+<hamswinging/>
+<hamsmallmod/>
+<hamfast/>
+<hamfast/>
+<hamparend/>
 </hamnosys_manual>
 </hns_sign>
 </sigml>
