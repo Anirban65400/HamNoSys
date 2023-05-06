@@ -12,9 +12,9 @@
 <hampalml/>
 <hamchest/>
 <hamclose/>
+<hamcircleu/>
 <hammoveu/>
 <hamlargemod/>
-<hamarcu/>
 <hamnomotion/>
 </hamnosys_manual>
 </hns_sign>
@@ -36,6 +36,8 @@
 <hammoveu/>
 <hamreplace/>
 <hamextfingerl/>
+<hampalmdr/>
+<hambetween/>
 <hampalmr/>
 <hamforehead/>
 <hamseqbegin/>
