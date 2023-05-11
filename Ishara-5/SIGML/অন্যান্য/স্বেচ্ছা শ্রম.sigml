@@ -7,7 +7,7 @@
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamfist/>
-<hamextfingerl/>
+<hamextfingero/>
 <hampalml/>
 <hamshoulders/>
 <hamclose/>
@@ -21,14 +21,7 @@
 <hamthumboutmod/>
 <hamnomotion/>
 <hamnomotion/>
-</hamnosys_manual>
-</hns_sign>
-
-<hns_sign gloss="">
-
-<hamnosys_nonmanual>
-</hamnosys_nonmanual>
-<hamnosys_manual>
+<hamreplace/>
 <hamflathand/>
 <hambetween/>
 <hamfinger2345/>
