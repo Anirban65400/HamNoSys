@@ -13,7 +13,6 @@
 <hamheadtop/>
 <hamclose/>
 <hamcircleu/>
-<hamrepeatfromstart/>
 <hamnomotion/>
 <hamnomotion/>
 </hamnosys_manual>
@@ -29,13 +28,11 @@
 <hamextfingero/>
 <hampalml/>
 <hamchest/>
-<hamlrat/>
+<hamlrbeside/>
 <hamclose/>
 <hamparbegin/>
 <hammovel/>
 <hamarcr/>
-<hamchest/>
-<hambetween/>
 <hamlrat/>
 <hamchest/>
 <hamreplace/>
