@@ -28,7 +28,6 @@
 <hns_sign gloss="">
 
 <hamnosys_nonmanual>
-<hnm_mouthpicture picture="e"/>
 </hamnosys_nonmanual>
 <hamnosys_manual>
 <hamsymmlr/>
@@ -43,8 +42,14 @@
 <hampalml/>
 <hamparbegin/>
 <hamchest/>
+<hambetween/>
+<hamchest/>
+<hamlrat/>
 <hamclose/>
 <hamplus/>
+<hamchest/>
+<hambetween/>
+<hamlrat/>
 <hamchest/>
 <hamparend/>
 <hamnomotion/>
