@@ -6,7 +6,7 @@
 <hamnosys_nonmanual>
 
 <hnm_eyelids tag="SB"/>	
-<hnm_mouthpicture picture="haaaaa"/>	
+<hnm_mouthpicture picture="aaachu"/>	
 </hamnosys_nonmanual>
 
 <hamnosys_manual>
@@ -24,6 +24,9 @@
 <hamneck/>
 <hamclose/>
 <hamnomotion/>
+<hammoved/>
+<hamsmallmod/>
+<hamslow/>
 </hamnosys_manual>
 
 </hns_sign>
