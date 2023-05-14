@@ -12,10 +12,10 @@
 <hampalml/>
 <hamparbegin/>
 <hamfingerpad/>
-<hamringfinger/>
+<hampinky/>
 <hamplus/>
 <hamfingerpad/>
-<hamringfinger/>
+<hampinky/>
 <hamparend/>
 <hamtouch/>
 <hamnose/>
@@ -39,7 +39,11 @@
 <hambetween/>
 <hamshoulders/>
 <hamlrbeside/>
+<hamseqbegin/>
 <hamtouch/>
+<hamfingerside/>
+<hamindexfinger/>
+<hamseqend/>
 <hamnomotion/>
 <hammoveo/>
 <hamsmallmod/>
