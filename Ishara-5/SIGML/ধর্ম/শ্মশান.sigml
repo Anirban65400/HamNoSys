@@ -12,10 +12,10 @@
 <hampalml/>
 <hamparbegin/>
 <hamfingerpad/>
-<hamringfinger/>
+<hampinky/>
 <hamplus/>
 <hamfingerpad/>
-<hamringfinger/>
+<hampinky/>
 <hamparend/>
 <hamtouch/>
 <hamnose/>
@@ -30,7 +30,8 @@
 <hamnosys_nonmanual>
 </hamnosys_nonmanual>
 <hamnosys_manual>
-<hamfinger23/>
+<hamfinger23spread/>
+<hamthumbacrossmod/>
 <hamextfingero/>
 <hampalmd/>
 <hamchest/>
